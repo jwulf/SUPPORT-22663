@@ -1,0 +1,16 @@
+{
+  "name": "support-22663",
+  "version": "1.0.0",
+  "description": "Minimal reproducer for SUPPORT-22663",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@camunda8/sdk": "^8.6.7",
+    "dotenv": "^16.4.5"
+  }
+}
