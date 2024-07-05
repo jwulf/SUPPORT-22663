@@ -8,6 +8,10 @@ Minimal reproducer for SUPPORT-22663
 * `cd camunda-platform`
 * `docker compose up`
 
+Make sure that it is running by opening Operate in a browser:
+
+[http://localhost:8081](http://localhost:8081)
+
 In another terminal:
 
 * `git clone https://github.com/jwulf/SUPPORT-22663.git`
