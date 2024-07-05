@@ -2,6 +2,8 @@
 
 Minimal reproducer for SUPPORT-22663
 
+## Instructions
+
 * `git clone https://github.com/camunda/camunda-platform`
 * `cd camunda-platform`
 * `docker compose up`
