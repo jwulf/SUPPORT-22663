@@ -6,7 +6,7 @@ Minimal reproducer for SUPPORT-22663
 
 * `git clone https://github.com/camunda/camunda-platform`
 * `cd camunda-platform`
-* `docker compose up`
+* `docker compose -f docker-compose-core.yaml up -d`
 * Make sure that it is running and accessible by opening Operate in a browser: [http://localhost:8081](http://localhost:8081)
 
 In another terminal:
